@@ -8,3 +8,11 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Jupyter / outputs
+.ipynb_checkpoints/
+charts/
+*.duckdb
+
+# Editor tool worktrees
+.kilo/
